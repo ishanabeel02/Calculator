@@ -1,6 +1,6 @@
 # 🧮 Python GUI Calculator Collection
 
-This repository contains **three different calculator projects** built using **Python's Tkinter GUI library**, each with a unique flavor:
+This repository contains **three different calculator projects** built using **Python's Tkinter GUI library**:
 
 ---
 
@@ -27,5 +27,6 @@ The classic version:
 - Simple and beginner-friendly
 - Clean GUI with number and operator buttons
 <img width="527" height="538" alt="image" src="https://github.com/user-attachments/assets/0c73b3e7-4f78-47c8-81d7-552bceda64f5" /> 
+
 ---
 
